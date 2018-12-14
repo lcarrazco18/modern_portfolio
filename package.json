@@ -9,6 +9,7 @@
   "author": "Luis Carrazco",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.9.4"
+    "node-sass": "^4.9.4",
+    "sass": "^1.15.2"
   }
 }
