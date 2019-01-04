@@ -74,3 +74,11 @@ main {
         }
     }
 }
+
+.about-info {
+    display: grid;
+    grid-template-areas: 
+    'bioimage bio bio'
+    'job1 job2 job3';
+    grid-template-columns: 1fr 1fr 1fr;
+}
